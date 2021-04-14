@@ -46,7 +46,7 @@ In order to run our application, you need to download the FlightGear application
 In addition, you need to up the .Net Framework version 4.6.1  - there is a link https://dotnet.microsoft.com/download/dotnet-framework .
 
         Documented and UML charts:
-At the following link there x is detailed documentation on the main classes in the project,on the flow of information and UML charts of the main classes.
+At the following link x there is detailed documentation about the main classes in the project,about the flow of information and UML charts of the main classes.
 
         Video:
 There is a link to a video where we demonstrate the user stories of the project:
