@@ -18,9 +18,6 @@ The Joystick:
 
 <img src="https://user-images.githubusercontent.com/49268743/114753222-e1c26700-9d5f-11eb-9211-d4407e32998a.png">
 
-The different data about the flight:
-
-<img src="https://user-images.githubusercontent.com/49268743/114753694-6e6d2500-9d60-11eb-812f-fd52787cc0c6.png">
 
 The given graph after pressing on an item from the list above:
 
