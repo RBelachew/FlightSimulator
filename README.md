@@ -11,7 +11,8 @@ it will graphically display the plane in relation to the earth, the rudder posit
 and additional flight data in a number of different views, including a view designed to find anomalies in the data.
 
         Pictures of the app for illustration:
-<img src="https://user-images.githubusercontent.com/49268743/114751945-76c46080-9d5e-11eb-900f-4f566266043d.png">
+<img src="https://user-images.githubusercontent.com/49268743/126898163-c60f1075-0c2d-47a7-b7ca-397a16c9b092.png">
+
 
 The Joystick:
 
