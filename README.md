@@ -1,4 +1,5 @@
 # Flight Simulator
+Contributes: Kareen Salameh, Yasmin Solomon, Amebet Belachew
 
         Our app deals with: Flight investigation
 
