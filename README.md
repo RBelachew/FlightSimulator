@@ -14,7 +14,7 @@ and additional flight data in a number of different views, including a view desi
 <img src="https://user-images.githubusercontent.com/49268743/126898163-c60f1075-0c2d-47a7-b7ca-397a16c9b092.png">
 
 
-The Joystick:
+The Joystick:https://user-images.githubusercontent.com/49268743/114918284-95465c80-9e2f-11eb-9df0-740c7f9b118f.png
 
 <img src="https://user-images.githubusercontent.com/49268743/114753222-e1c26700-9d5f-11eb-9211-d4407e32998a.png">
 
