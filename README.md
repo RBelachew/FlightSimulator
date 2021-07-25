@@ -1,4 +1,4 @@
-# README
+# Flight Simulator
 
         Our app deals with: Flight investigation
 
